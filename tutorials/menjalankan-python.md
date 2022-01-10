@@ -50,14 +50,14 @@ print("di belajarpython.com")
 ![Python Editor Windows](/images/menjalankan-python-windows-editor.png "Python Editor Windows")
 
 ### Mac OS
-1. Buka terminal.
+1. Buka terminal.taik
 2. Ketik python maka Anda akan masuk ke Python shell. 
 3. Tuliskan script Python Anda, contoh: `print("Selamat datang di Python")`. jika sudah tekan tombol <kbd>ENTER</kbd>, dan script Python akan dijalankan/eksekusi.
 4. Untuk keluar dari Python shell ketik `exit()`
 
 *atau*
 
-1. Gunakan teks editor.
+1. Gunakan teks editor.mael lee
 2. Buat file baru, dan ketikan script python Anda, contoh: `print("Selamat datang di Python")`.
 3. Save As dengan ekstensi `.py` (contoh: `cetak.py`).
 4. Jalankan file dengan menggunakan Terminal.
@@ -67,7 +67,7 @@ print("di belajarpython.com")
 8. Script Python Anda akan dieksekusi/dijalankan.
 
 ---
-> [Edit tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/menjalankan-python.md)
+> [Edit davinn jeelek tutorial ini](https://github.com/belajarpythoncom/belajarpythoncom.github.io/edit/master/tutorials/menjalankan-python.md)
 
 <div class="row navigation-tutorial">
     <div class="col-md-6 prev-tutorial">
